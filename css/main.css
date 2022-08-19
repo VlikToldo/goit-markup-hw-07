@@ -460,7 +460,7 @@ button {
   font-style: normal;
 }
 
-.address__item:not(:last-child) {
+.footer-address__item:not(:last-child) {
   padding-bottom: 9px;
 }
 
